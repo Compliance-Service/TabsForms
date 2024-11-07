@@ -30985,7 +30985,7 @@ return A.V($async$a7J,r)},
 a7L(a,b){return A.aSH(a,b)},
 aSH(a,b){var s=0,r=A.W(t.z),q,p=2,o,n,m,l,k,j
 var $async$a7L=A.X(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:k=A.f8("http://wf.tabs.mts.ru/webhook/5e0765de-928e-4dea-98f7-8ce57432a4dd",0,null)
+s=p}while(true)switch(s){case 0:k=A.f8("https://wf.tabs.mts.ru/webhook/5e0765de-928e-4dea-98f7-8ce57432a4dd",0,null)
 p=4
 m=t.N
 s=7
@@ -31018,7 +31018,7 @@ return A.V($async$a7L,r)},
 a7M(a,b,c){return A.aSI(a,b,c)},
 aSI(a,b,c){var s=0,r=A.W(t.z),q,p=2,o,n,m,l,k,j
 var $async$a7M=A.X(function(d,e){if(d===1){o=e
-s=p}while(true)switch(s){case 0:k=A.f8("http://wf.tabs.mts.ru/webhook/5242b8cf-666a-4604-a547-6bccb7c283a9",0,null)
+s=p}while(true)switch(s){case 0:k=A.f8("https://wf.tabs.mts.ru/webhook/5242b8cf-666a-4604-a547-6bccb7c283a9",0,null)
 p=4
 m=t.N
 s=7
