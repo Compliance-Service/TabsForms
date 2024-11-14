@@ -31083,7 +31083,7 @@ return A.M($async$a9r,r)},
 a9s(a,b,c,d,e,f,g){return A.aWU(a,b,c,d,e,f,g)},
 aWU(a,b,c,d,e,f,g){var s=0,r=A.N(t.z),q,p=2,o,n,m,l,k,j
 var $async$a9s=A.O(function(h,i){if(h===1){o=i
-s=p}while(true)switch(s){case 0:k=A.eh("http://wf.tabs.mts.ru/webhook/0993d8d7-f0ba-4969-aeb7-2f61ebf1b789",0,null)
+s=p}while(true)switch(s){case 0:k=A.eh("https://wf.tabs.mts.ru/webhook/0993d8d7-f0ba-4969-aeb7-2f61ebf1b789",0,null)
 p=4
 m=t.N
 s=7
