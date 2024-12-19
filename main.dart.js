@@ -30760,7 +30760,7 @@ return A.K($async$aaw,r)},
 aax(a,b,c,d,e,f,g){return A.b1z(a,b,c,d,e,f,g)},
 b1z(a,b,c,d,e,f,g){var s=0,r=A.L(t.z),q,p=2,o,n,m,l,k,j
 var $async$aax=A.M(function(h,i){if(h===1){o=i
-s=p}while(true)switch(s){case 0:k=A.e0("https://wf.tabs.mts.ru/webhook-test/378fba45-bafd-4d8f-9be3-ccec4084f4e8",0,null)
+s=p}while(true)switch(s){case 0:k=A.e0("https://wf.tabs.mts.ru/webhook/378fba45-bafd-4d8f-9be3-ccec4084f4e8",0,null)
 p=4
 m=t.N
 s=7
